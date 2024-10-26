@@ -1,4 +1,4 @@
-![AquaPiscines Logo](aquapiscines/src/images/image.png)
+![AquaPiscines Logo](./src/images/image.png)
 
 # AquaPiscines 🏊‍♂️
 
