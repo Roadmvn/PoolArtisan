@@ -1,6 +1,8 @@
+![AquaPiscines Logo](aquapiscines/src/images/image.png)
+
 # AquaPiscines 🏊‍♂️
 
-[English version below](#english-version)
+[Version anglaise ci-dessous](#version-anglaise)
 
 ## 🇫🇷 Version Française
 
@@ -49,7 +51,8 @@ npm run build
 ## 🇬🇧 English Version
 
 ### About
-AquaPiscines is a modern web application built with Vue 3, TypeScript, and Vite, specialized in showcasing swimming pool construction and maintenance services.
+AquaPiscines is a modern web application built with Vue 3, TypeScript, and Vite, specialized in 
+showcasing swimming pool construction and maintenance services.
 
 ### Technologies Used
 - Vue 3 with Composition API
